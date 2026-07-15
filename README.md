@@ -1,7 +1,7 @@
-Shoaib Store Data Analysis using Excel
+#Shoaib Store Data Analysis using Excel
 
 1.Project Overview
-  This project analyzes Shoaib Store sales data using Microsoft Excel. The project includes data cleaning,    pivot tables, charts, slicers, and an interactive dashboard to generate       business insights.
+  This project analyzes Shoaib Store sales data using Microsoft Excel. The project includes data cleaning, pivot tables, charts, slicers, and an interactive dashboard to generate business insights.
 
 2.Tools Used
 - Microsoft Excel
